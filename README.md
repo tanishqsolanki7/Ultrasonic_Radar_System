@@ -40,5 +40,5 @@ on screen.
 # Institution
 - Medicaps University Minor Project | 2024-2025
 
-# Dashboard Preview
+# Image Preview
 <img width="940" height="487" alt="image" src="https://github.com/user-attachments/assets/f323f1c3-032d-4465-acb5-e35a230c7355" />
